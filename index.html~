@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Siddhant Manocha: Homepage</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/freelancer.css" rel="stylesheet">
+    <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    </head>
+
+<body id="home1" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+               
+                <a class="navbar-brand" href="#home">Siddhant Manocha</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="page-scroll">
+                        <a href="#home">Home</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#academics">Academics</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#projects">Projects</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#resume">Resume</a>
+                    </li>
+                     <li class="page-scroll">
+                        <a href="#contact">Contact</a>
+                    </li>
+                     
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+
+    <section class="success" id="home">
+        <div class="container">
+            <div class="row">
+            
+            <div class="col-lg-12 text-center" >
+                    <h1>Home</h1>
+                    <hr class="star-light">
+               </div>
+              </div>
+              <div class="row">
+            
+                <div class="col-md-3" >
+                    <img class="img-responsive" src="img/profile.jpg" alt="">
+                 </div>
+                      <div class="col-md-9">
+                    <div style="font-size:1.5em">
+        Hi, I am a pre-final year undergraduate student in the department of Computer Science and Engineering at IIT Kanpur. I am  interested in the fields of computer vision and robot path planning using vision based techniques.
+<br>
+I belong to Lucknow.I did my schooling from St.Thomas College ,Lucknow.
+<br>
+ Please feel free to navigate through this site to find out more about me.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+    
+    
+    
+    
+
+    <!-- Academics Grid Section -->
+    <section id="academics" style="font-size:1.2em">
+        <div class="container" >
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Academics</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+               <h3>Engineering:</h3>
+               
+               <div class="row">
+                <div class="col-md-9" > Indian Institute of Technology,Kanpur,India<br>
+              B.Tech,Computer Science and Engineering,2012 - Present </div>
+  		<div class="col-md-3" > CGPA: 9.9/10.0</div>
+                </div>
+               
+               <h3>Relevant Courses:</h3>
+               
+                <div class="row">
+                <div class="col-md-3">Data Structures and Algorithms</div>
+  		
+  		<div class="col-md-3">Fundamentals of Computing</div>
+  		
+  		<div class="col-md-3">Computer Organization</div>
+  		</div>
+  		
+  		
+  		<div class="row">
+                <div class="col-md-3">Computing Laboratory</div>
+  		
+  		<div class="col-md-3">Operating Systems*</div>
+  		
+  		<div class="col-md-3">Computer Networks*</div>
+  		</div>
+  		
+  		
+  		
+  		
+  		
+  		<div class="row">
+                <div class="col-md-3">Theory of Computation*</div>
+  		
+  		<div class="col-md-3">Discrete Mathematics</div>
+  		
+  		<div class="col-md-3">Abstract Algebra</div>
+  		</div>
+  		
+  		<div class="row">
+                <div class="col-md-3">Logic for Computer Science</div>
+  		
+  		<div class="col-md-3">Linear Algebra</div>
+  		
+  		<div class="col-md-3">Introduction to Calculus</div>
+  		</div>
+               
+               <h3>School:</h3>
+               
+                <div class="row">
+                <div class="col-md-9">  Lawrence and Mayo Public School,Kota,India
+Senior School Certificate(CBSE),2012 </div>
+  		<div class="col-md-3"> Percentage:96.2%</div>
+  		
+  		
+  		
+                </div>
+                
+                
+                <div class="row">
+                <div class="col-md-9">  St.Thomas College,Lucknow,India
+Secondary School Certificate(ICSE),2010 </div>
+  		<div class="col-md-3"> Percentage:95.6% </div>
+  		
+  		
+  		
+                </div>
+               
+               
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="success" id="projects" style="font-size:1.2em">
+        <div class="container">
+		    <div class="row">
+				<div class="col-lg-12 text-center">
+				    <h2>Projects</h2>
+				    <hr class="star-light">
+				</div>
+		    </div>
+            <div class="row">
+               
+              <div class="col-md-8" > <span style="font-size:1.2em"><b>Vision or Roadmap Based Robot Motion Planning</b></span><br>
+              <i>Mentor: Dr .Amitabha Mukerjeee,Department of Computer Science and Engineering,IIT Kanpur</i> </div>
+  		<div class="col-md-4"> SURGE|May 2014-July 2014</div>
+               
+               <br>
+                <div class="col-md-12">
+               <ul><br>
+      <li>Devised an algorithm to automate the motion and plan the trajectory of CRS Robotic arm using computer
+vision, image processing and Gaussian models</li>
+      <li>Implemented Gaussian Process Latent variable model and Gaussian process regression to figure out the
+mapping between joint angles of the robotic arm and corresponding images for various configurations
+for trajectory planning</li>
+      <li>Recovered the joint angles of the robotic arm from the corresponding images with about 99.5% accuracy
+and generated a smooth trajectory between unknown robot configurations with solution sufficiently close
+to ground truth solution</li>
+<li><a style="color:white;" href="Surge_Abstract.pdf">[project abstract]</a><a style="color:white;" href="Surge_Report.pdf">[project report]</a>          <a style="color:white;" href="Surge_Presentation.pptx">[project presentation]</a></li>
+      
+      <br>
+    </ul>
+          
+          </div>
+          <br>
+          
+          
+          
+          
+          
+  		
+               
+               <div class="col-md-8" > <span style="font-size:1.2em"><b>Co-founder at Fundebaazi.in</b></span><br>
+              </div>
+              <div class="col-md-4"> January 2014-Present</div>
+              <br>
+                <div class="col-md-12">
+               <ul><br>
+      <li>Founded a web based solution to enable people to access career advice easily and efficiently from au-
+thentic advisors</li>
+      <li>Developed an online client to establish secure and anonymous conversations between advisors and people</li>
+      <li>
+      <a style="color:white;" href="http://www.fundebaazi.in">[link to the website]</a>
+      </li>
+      <br>
+    </ul>
+          
+          </div>
+          <br>
+          
+          
+          
+          
+           <div class="col-md-8"> <span style="font-size:1.2em"><b>City Watch, Crowd Source Android Application</b></span> </div>
+  		<div class="col-md-4"> Android Application | December 2014</div>
+               
+               <br>
+                <div class="col-md-12">
+               <ul><br>
+      <li>Conceptualized a crowd source solution to address local infrastructural issues in the city and report
+problems to the municipal government for immediate consideration</li>
+      <li>Developed an Android Application using web standards(HTML,CSS,JavaScript,PHP) through Intel XDK
+framework<br></li>
+      <li><a style="color:white;" href="https://play.google.com/store/apps/details?id=com.siddhantmanocha1994gmail.com.citywatchapp&hl=en">[Google Play URL for the app]</a></li>
+      <br>
+    </ul>
+          
+          </div>
+          <br>
+          
+          
+          
+          
+          
+           <div class="col-md-8"><span style="font-size:1.2em"><b> My Impress, Cloud Based Presentation Software </b></span></div>
+  		<div class="col-md-4"> Web Application | May 2014-June 2014</div>
+               
+               <br>
+                <div class="col-md-12">
+               <ul><br>
+      <li>Designed an online platform to create presentations with cloud support and improved presentation tran-
+sition effects</li>
+      <li>Utilized Impress.js framework and Web standards(JavaScript,PHP,MYSQL)to construct an editing and
+hosting platform</li>
+<li>
+Devised a user interface for Impress.js presentations that provided a powerful tool to add 3-D scale, zoom
+and rotate features which distinguished them from standard PowerPoint presentations
+</li>
+
+<li>
+<a style="color:white;" href="https://www.youtube.com/watch?v=BPM6tbITAJ4">[youtube link to the video]</a>
+</li>
+      <br>
+      
+    </ul>
+          
+          </div>
+          <br>
+          
+          
+          
+          
+                </div> 
+                
+                
+                
+                
+            
+        </div>
+    </section>
+
+
+
+
+
+<section id="resume">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Resume</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+               
+               
+                
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="resume.pdf" class="btn btn-lg  btn-success">
+                        <i class="fa fa-download"></i> <span style="font-size:2em">Resume</span>
+                    </a>
+                </div>
+               
+               
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Contact Section -->
+    <section id="contact" class="success">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Contact Me</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+               
+               
+               <div class="col-md-4">
+                        <h3>Location</h3>
+                        <p>G-209/5, IIT Kanpur - 208016</p>
+                    </div>
+                    <div class="col-md-4">
+                        <h3>Around the Web</h3>
+                        <ul class="list-inline">
+                            <li>
+                                <a href="https://facebook.com/siddhant.manocha.5" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://plus.google.com/111970193561485113183/posts" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+                            </li>
+                           
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <h3>Others</h3>
+                        <p>email:siddhantmanocha1994@gmail.com</p>
+                        <p>Phone:7752894588</p>
+                        
+                    </div>
+                </div>
+               
+               
+               
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center">
+        
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        Copyright &copy; Siddhant Manocha
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    
+    <script src="js/jquery-1.11.0.js"></script>
+
+   
+    <script src="js/bootstrap.min.js"></script>
+
+    
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+   
+    
+    <script src="js/freelancer.js"></script>
+
+</body>
+
+</html>
